@@ -1,0 +1,12 @@
+{
+  "name": "nb-read-write-pkg",
+  "version": "0.0.1",
+  "description": "读写 package.json文件",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
